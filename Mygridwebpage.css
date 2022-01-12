@@ -23,11 +23,14 @@ img
 {
   padding: 10px;
   background-color: black;
+  transition: 500ms ease-in-out;
+  transform: scale(1);
  }
 
  .card:hover{
  background-color:white;
  font-size: 20px;
+ transform: scale(1.5);
  }
 
  body
