@@ -23,7 +23,7 @@ img
 {
   padding: 10px;
   background-color: black;
-  transition: 500ms ease-in-out;
+  transition: 250ms ease-in-out;
   transform: scale(1);
  }
 
